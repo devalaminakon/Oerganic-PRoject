@@ -1,0 +1,37 @@
+/* common css */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    display: block;
+}
+ul,li{
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #E5E5E5;
+    font-family: "Inter", sans-serif;
+}
+
+
+/*  header part start */
+#header {
+    background-color: #477018;
+    height: 50px;
+    align-items: center;
+    display: flex;
+}
+#header h4{
+    font-size: 16px;
+    color: #fff;
+}
+
+/*  header part end */
